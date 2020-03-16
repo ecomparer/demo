@@ -2,14 +2,14 @@
   "users": [
     {
       "id": "1",
-      "fullname": "admin"
+      "fullname": "admin",
       "email": "mishaalhere@gmail.com"
-      "passwd": "admin"
-      "age": "17"
-      "gender": "male"
-      "country": "Kuwait"
-      "city": "Ahmadi"
-      "phone": "+965 00000000"
+      "passwd": "admin",
+      "age": "17",
+      "gender": "male",
+      "country": "Kuwait",
+      "city": "Ahmadi",
+      "phone": "+965 00000000",
       "status": "not infected"
     }
    ]
