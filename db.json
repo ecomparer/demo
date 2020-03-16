@@ -3,7 +3,7 @@
     {
       "id": "1",
       "fullname": "admin",
-      "email": "mishaalhere@gmail.com"
+      "email": "mishaalhere@gmail.com",
       "passwd": "admin",
       "age": "17",
       "gender": "male",
