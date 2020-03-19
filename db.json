@@ -11,6 +11,18 @@
       "city": "Ahmadi",
       "phone": "+965 00000000",
       "status": "not infected"
+    },
+    {
+      "id": "1",
+      "fullname": "admini",
+      "email": "mishaalhere@gmail.com",
+      "passwd": "admini",
+      "age": "17",
+      "gender": "male",
+      "country": "Kuwait",
+      "city": "Ahmadi",
+      "phone": "+965 00000000",
+      "status": "not infected"
     }
    ]
 }
