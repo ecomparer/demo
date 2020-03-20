@@ -10,7 +10,8 @@
       "country": "Kuwait",
       "city": "Ahmadi",
       "phone": "+965 00000000",
-      "status": "not infected"
+      "status": "not infected",
+      "activity": "[]"
     },
     {
       "id": "1",
@@ -22,7 +23,8 @@
       "country": "Kuwait",
       "city": "Ahmadi",
       "phone": "+965 00000000",
-      "status": "not infected"
+      "status": "not infected",
+      "activity": "[]"
     }
    ]
 }
