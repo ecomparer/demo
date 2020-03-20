@@ -31,12 +31,12 @@
 {
   "activities": [
     {
-    “fullname”: “[“fullname”:admin]”,
-    “Activity”: “[]”
+    “fullname”: [“fullname”:admin],
+    “Activity”: []
   },
   {
-    “fullname”: “[“fullname”:admini]”,
-    “Activity”: “[]”
+    “fullname”: [“fullname”:admini],
+    “Activity”: []
   }
 ]
 } 
